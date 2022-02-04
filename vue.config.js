@@ -4,3 +4,4 @@ module.exports = {
         config.module.rules.delete('eslint');
     }
 }
+ 

@@ -101,7 +101,7 @@ img {
 }
 
 .bheight {
-  height: 65px;
+  height: 40px;
   overflow: auto;
 }
 

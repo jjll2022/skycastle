@@ -160,14 +160,15 @@ let info = {
       name: "아이비리그 출신 선생님들로만 구성 (Teacher Management)",
       pictures: [
         {
-          img: require("./src/assets/portfolio/diary/1.png")
+          // img: require("./src/assets/portfolio/diary/1.png")
+          img: require("./src/assets/ivyleaguestyle.jpeg")
         },
-        {
-          img: require("./src/assets/portfolio/diary/2.png")
-        },
-        {
-          img: require("./src/assets/portfolio/diary/3.png")
-        },
+        // {
+        //   img: require("./src/assets/portfolio/diary/2.png")
+        // },
+        // {
+        //   img: require("./src/assets/portfolio/diary/3.png")
+        // },
       ],
       technologies: ["하버드", "코넬", "스탠포드"],
       category: "Web App",
@@ -182,7 +183,7 @@ let info = {
       name: "지속적인 선생님 학생간 매칭 (Matching)",
       pictures: [
         {
-          img: require("./src/assets/portfolio/online examination/exam (1).png")
+          img: require("./src/assets/matching.jpeg")
         },
         {
           img: require("./src/assets/portfolio/online examination/exam (2).png")
@@ -211,7 +212,7 @@ let info = {
       name: " (Student care & teaching process management)",
       pictures: [
         {
-          img: require("./src/assets/portfolio/myflix.com/1.png")
+          img: require("./src/assets/progress.jpeg")
         },
         {
           img: require("./src/assets/portfolio/myflix.com/2.png")
