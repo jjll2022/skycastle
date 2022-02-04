@@ -1,6 +1,6 @@
 module.exports = {
     // publicPath: '/skycastle/',
-    publicPath: './',
+    publicPath: '/skycastle/',
     chainWebpack: config => {
         config.module.rules.delete('eslint');
     }
