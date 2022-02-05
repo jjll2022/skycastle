@@ -1,6 +1,6 @@
 let info = {
   name: "Mahy Mohab",
-  logo_name: "Sky Castle",
+  logo_name: "Ivy Castle",
   // flat_picture: require("./src/assets/portrait.png"),
   flat_picture: require("./src/assets/illustration-schools.jpeg"),
   config: {
@@ -10,8 +10,8 @@ let info = {
     }
   },
   description:
-    "대한민국에서 유일하게 IVY LEAGUE 출신 선생님들로만 매칭해주고 자체 컨설팅 서비스를 운영하는 Sky Castle 입니다. " +
-      "IVY LEAGUE 진학을 원하시는 학부모님들과 학생분들께 그 목표를 이룰 수 있도록 저희가 돕겠습니다.",
+    "대한민국에서 유일하게 IVY LEAGUE 및 Top tier 출신 선생님들로만 매칭해주고 자체 컨설팅 서비스를 운영하는 Sky Castle 입니다. " +
+      "미국 Top Tier 진학을 원하시는 학부모님들과 학생분들께 그 목표를 이룰 수 있도록 저희가 돕겠습니다.",
   links: {
     linkedin: "www.linkedin.com/in/joonamkim",
     github: "https://github.com/joonamkim",
@@ -39,7 +39,7 @@ let info = {
     {
       name: "University of Pennsylvania",
       place: "Philadelphia, USA",
-      date: "Class of 2015",
+      date: "Class of 2014",
       degree: "Grad School",
       // gpa: "3.1/4.0",
       description:
@@ -56,7 +56,7 @@ let info = {
     {
       name: "JPMorgan Chase & Co.",
       place: "New York, London, Singapore",
-      date: "2015 - 2019",
+      date: "2014 - 2019",
       degree: "Quant, Full-stack Software Engineer",
       // gpa: "3.1/4.0",
       description:
@@ -75,7 +75,7 @@ let info = {
     {
       name: "Cornell University",
       place: "New York, USA",
-      date: "Class of 2013",
+      date: "Class of 2012",
       degree: "Undergrad",
       // gpa: "3.1/4.0",
       description:
@@ -90,8 +90,8 @@ let info = {
     },
     {
       name: "Cornell University",
-      place: "Philadelphia, USA",
-      date: "Class of 2015",
+      place: "New York, USA",
+      date: "Class of 2013",
       degree: "Grad School",
       // gpa: "3.1/4.0",
       description:
@@ -107,7 +107,7 @@ let info = {
     {
       name: "Walmart Labs\n",
       place: "San Francisco",
-      date: "2015 - 2019",
+      date: "2013 - 2016",
       degree: "Data Scientist, Technical Project Manager",
       // gpa: "3.1/4.0",
       description:
@@ -120,6 +120,23 @@ let info = {
         // "C#"
       ]
     },
+    // {
+    //   name: "Coupang\n",
+    //   place: "Seoul",
+    //   date: "2016 - Present",
+    //   degree: "Product Owner",
+    //   // gpa: "3.1/4.0",
+    //   description:
+    //       "",
+    //   skills: [
+    //     // "Software Engineering",
+    //     // "web programming",
+    //     // "UI/UX design",
+    //     // "Front-end developing",
+    //     // "C#"
+    //   ]
+    // },
+
   ],
   skills: [
     {
