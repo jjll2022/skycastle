@@ -6,7 +6,9 @@
       <About id="about" :nightMode="nightMode" />
 <!--      <Skills id="skills" :nightMode="nightMode" />-->
       <Service id="service" :nightMode="nightMode" />
+      <Payment id="payment" :nightMode="nightMode" />
       <Contact id="contact" :nightMode="nightMode" />
+
       <Footer :nightMode="nightMode" />
     </div>
   </div>
@@ -16,8 +18,9 @@
 import Navbar from "./components/Navbar.vue";
 import Home from "./components/Home";
 import About from "./components/About";
-import Skills from "./components/Skills";
+// import Skills from "./components/Skills";
 // import Portfolio from "./components/Portfolio";
+import Payment from "./components/Payment";
 import Service from "./components/Service";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -33,6 +36,7 @@ export default {
     About,
     // Skills,
     // Portfolio,
+    Payment,
     Contact,
     Footer,
   },
